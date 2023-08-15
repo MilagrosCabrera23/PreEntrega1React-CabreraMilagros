@@ -1,0 +1,17 @@
+.navbar-brand{
+    color: white !important;
+    font-size: 1.2em !important;
+    font-weight: bold ;
+}
+
+.NavbarContainer{
+background-color: blueviolet;
+font-weight:600;
+color: blue  !important;
+font-size: 1.3em;
+
+
+}
+.nav-link{
+    color: white !important;
+}
